@@ -1,4 +1,4 @@
-use regex::Regex;
+
 use clap::{App,Arg};
 fn main() {
     let args = App::new("grep-lite")
